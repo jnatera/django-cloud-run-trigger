@@ -46,3 +46,5 @@ availableSecrets: object(Secrets)
 artifacts: object (Artifacts)
 images:
 - [string, string, ...]
+
+test push
